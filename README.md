@@ -1,1 +1,2 @@
 # PRODIGY_WD_01
+This project features a responsive, fixed-position navigation menu built with HTML, CSS, and JavaScript. The menu dynamically changes style when the user scrolls the page and includes smooth hover effects on each menu item. It is designed to stay visible on all pages, enhancing user experience with a modern and interactive UI.
